@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: gulzar;
+  margin-top: -42px;
+}
+#banner{
+  background-image: url(images/main-bnr.jpg);
+  background-repeat: no-repeat;
+  opacity: 0.78;
+  background-position: center;
+  height: 500px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: white;
+  background-size: cover;
+}
+.title{
+  font-size: 50px;
+  padding-top: 20px;
+}
+.sub-title{
+  font-size: 22px;
+  line-height: 18px;
+  color: white;
+  font-weight: 500;
+  word-spacing: 3px;
+  }
+  button {
+    background-color: rgb(250, 55, 20);
+    border: none;
+    border-radius: 28px;
+    color: white;
+    padding: 20px 25px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+ 
+
+  
