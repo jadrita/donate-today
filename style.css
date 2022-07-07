@@ -73,4 +73,49 @@ body {
   margin-left: 200px;
   margin-right: 200px;
 }
-  
+input {
+  color: gray;
+  outline: 0;
+  border-width: 0 0 3px;
+  border-color: gray;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 30px;
+}
+ .donate-plan-container {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+}
+.donate-plan-container > div {
+  margin: 10px;
+  padding: 20px;
+}
+.food{
+  background-color: rgba(175, 238, 238, 0.988);
+}
+.shelter{
+  background-color: rgb(254, 210, 217);
+  }
+  .education{
+    background-color: peachpuff;
+  }
+footer{
+  background-color: black;
+  text-align: center;
+  margin-bottom: -40px;
+}
+.footer-title{
+  color:rgb(240, 103, 103);
+  font-style: italic;
+  font-family: arima;
+  font-size: 30px;
+  padding-top: 30px;
+  margin-bottom: 0;
+}
+.tagline{
+  color: white;
+  font-weight: 100;
+  font-size: 20px;
+}
